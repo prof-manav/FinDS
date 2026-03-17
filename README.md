@@ -19,6 +19,7 @@ The project introduces a structured experimental pipeline to evaluate how differ
 
 ## 🏗️ Repository Structure
 
+```bash
 FinDS/
 │
 ├── 1. Main Exp/
@@ -37,8 +38,8 @@ FinDS/
 │   └── Comparative studies
 │
 └── README.md
-
 ---
+```
 
 ## ⚙️ Experimental Pipeline
 
