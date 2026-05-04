@@ -206,5 +206,5 @@ Released under the MIT License. The LME settlement-price data in `Metals_Price.c
 
 ## Author
 
-**Manav** — AI Researcher, time-series forecasting and graph neural networks.
+**Muktinath V** — AI Researcher, time-series forecasting and graph neural networks.
 Repository: <https://github.com/prof-manav/FinDS>
